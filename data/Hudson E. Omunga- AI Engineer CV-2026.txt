@@ -1,0 +1,64 @@
+HUDSON E. OMUNGA
+AI Engineer & Automation Specialist
+Email: hudson.eboso@techbrain.africa | Phone: +254727869396
+Location: Nairobi, Kenya (Available for Global Remote Work)
+LinkedIn: https://www.linkedin.com/in/hudson-eboso | GitHub: https://github.com/ebosoh
+Portfolio: https://techbrain.africa
+
+================================================================================
+PROFESSIONAL SUMMARY
+================================================================================
+Experienced AI & Automation Engineer with 5+ years of hands-on expertise architecting,
+building, and deploying production-grade LLM applications, autonomous multi-agent
+workflows (LangChain, LangGraph, CrewAI, AutoGen), and scalable workflow automation
+systems (n8n, Python, Playwright). Adept at RAG architectures, custom agent tool creation,
+vector search indexing, and resilient backend integrations.
+
+================================================================================
+CORE TECHNICAL SKILLS
+================================================================================
+* Languages & Frameworks: Python, FastAPI, Flask, JavaScript/TypeScript, SQL, Bash
+* AI & LLMs: Google Gemini, OpenAI (GPT-4o), Anthropic Claude, LangChain, LangGraph,
+  LlamaIndex, CrewAI, AutoGen, Prompt Engineering, Structured Outputs, Function Calling
+* Retrieval-Augmented Generation (RAG): Pinecone, ChromaDB, Qdrant, Weaviate, FAISS,
+  Chunking Strategies, Hybrid Search, Reranking
+* Workflow & Process Automation: n8n, Zapier, Make.com, Playwright, Selenium,
+  Browser Automation, Web Scraping, REST APIs, Webhooks
+* Infrastructure & DevOps: Docker, Kubernetes, CI/CD, GitHub Actions, Linux, AWS,
+  GCP (Google Cloud), Azure, PostgreSQL, Redis, SQLite
+
+================================================================================
+PROFESSIONAL EXPERIENCE
+================================================================================
+Lead AI & Automation Engineer | TechBrain Africa
+2022 - Present | Remote
+- Designed and built enterprise-grade autonomous AI agents for LinkedIn operations,
+  customer support automation, and automated outreach, decreasing manual effort by 85%.
+- Implemented LangGraph and n8n orchestrated agent pipelines connecting internal CRM,
+  email systems, and third-party APIs with human-in-the-loop safety controls.
+- Integrated RAG knowledge bases with hybrid vector search, achieving sub-second
+  retrieval times and 96% question answering accuracy.
+
+Senior AI Solutions Engineer | Global Freelance / Consulting
+2020 - 2022 | Remote
+- Developed autonomous web intelligence and browser automation robots using Playwright
+  and Python to parse live unstructured data at scale.
+- Built custom n8n nodes and microservices deployed in Docker containers for automated
+  lead qualification, calendar scheduling, and data enrichment.
+
+================================================================================
+FEATURED PROJECTS
+================================================================================
+* Autonomous Job Application & Email Tracking Agent:
+  End-to-end intelligent agent applying to verified remote AI engineering roles using
+  the Interview Invitation Likelihood Score (IILS) algorithm and tracking recruiter
+  responses via IMAP.
+* Multi-Agent Workflow Automation Platform:
+  Distributed workflow system combining n8n webhooks with LangGraph agent nodes for
+  dynamic document analysis, code generation, and Slack/Email reporting.
+
+================================================================================
+EDUCATION & CERTIFICATIONS
+================================================================================
+* Bachelor of Science in Computer Science / Information Technology
+* Certified AI Solutions Architect & n8n Automation Specialist
